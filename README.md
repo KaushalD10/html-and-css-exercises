@@ -1,2 +1,3 @@
-# html-and-css-exercises
-Completing exercises from a HTML course.
+# html-and-css-course
+Completing exercises from a HTML course made by SuperSimpleDev.
+
