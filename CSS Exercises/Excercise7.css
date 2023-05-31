@@ -1,0 +1,109 @@
+.rounded-corners {
+    width: 200px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.square-image {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.circle-image {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.search-bar-rounded-corners {
+    font-size: 16px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 15px;
+    border-color: rgb(200, 200, 200);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.google-search-bar {
+    width: 450px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 125px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+
+}
+
+.linkedin-header {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: gray;
+}
+
+.email-box {
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+
+.privacy-policy {
+    font-size: 14px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+}
+
+.linkedin-button {
+    background-color: #1876d3;
+    border: none;
+    border-radius: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.text-box {
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+
+.tweet-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}

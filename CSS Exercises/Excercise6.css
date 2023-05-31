@@ -1,0 +1,17 @@
+.title{
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.description{
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.underlined-description{
+    
+}
